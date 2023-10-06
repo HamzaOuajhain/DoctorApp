@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Doctor App",
+    "slug": "Doctor_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/doctor.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.UzBrussels.DoctorApp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/doctor.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.UzBrussels.DoctorApp",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
