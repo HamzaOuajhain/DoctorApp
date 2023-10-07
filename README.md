@@ -12,5 +12,4 @@ To see at what stage of a certain treatment the patient is in and decide what sh
 
 # Demo of the Application :
 
-https://github.com/HamzaOuajhain/DoctorApp/assets/121122945/5ed94685-5e91-4310-982a-854e4467550e
-
+![demoDoctorApp](https://github.com/HamzaOuajhain/DoctorApp/assets/121122945/d53620b0-ed32-4a08-b317-9898ecd1d21c)
